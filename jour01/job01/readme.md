@@ -37,3 +37,5 @@ Etape 7
 ![alt text](/screenshot/jour01/job01/etape07.jpg?raw=true)
 ![alt text](/screenshot/jour01/job01/etape07b.jpg?raw=true)
 ![alt text](/screenshot/jour01/job01/etape07c.jpg?raw=true)
+exit
+
