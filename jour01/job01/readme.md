@@ -1,5 +1,5 @@
 Etape 1
-![alt text](/screenshot/jour01/job01/etape01.jpg?raw=true)\
+![alt text](/screenshot/jour01/job01/etape01.jpg?raw=true)
 
 Etape 3
 image: image utilisée
@@ -30,8 +30,10 @@ RUN 1: Mets à jour et install curl, git et unzip
 RUN 2: Télécharge et installe composer
 
 Etape 6:
-![alt text](/screenshot/jour01/job01/etape06.png?raw=true)\
+![alt text](/screenshot/jour01/job01/etape06.png?raw=true)
 
 
 Etape 7
-![alt text](/screenshot/jour01/job01/etape07.jpg?raw=true)\
+![alt text](/screenshot/jour01/job01/etape07.jpg?raw=true)
+![alt text](/screenshot/jour01/job01/etape07b.jpg?raw=true)
+![alt text](/screenshot/jour01/job01/etape07c.jpg?raw=true)
